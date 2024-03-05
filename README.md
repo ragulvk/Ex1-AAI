@@ -1,5 +1,5 @@
-<H3> Name:  Syed Abdul Wasih H </H3>
-<H3>Register No: 212221240057</H3>
+<H3> Name:  Ragul VK </H3>
+<H3>Register No: 212221240043</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 24.02.2024 </H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
